@@ -2,21 +2,6 @@
     class Program {
         static void Main(string[] args) {
             
-                // getIp = {"-i", "--ipAddress"},
-                // getSm = {"-s", "--subnetMask"},
-                // ipBitValue = {"-b", "--ipBits"},
-                // smBitValue = {"-m", "--smBits"},
-                // networkAddress = {"-n", "--networkAddress"},
-                // broadcastAddress = {"-d", "--broadcastAddress"},
-                // wildcardMask = {"-w", "--wildcardMask"},
-                // numerOfHosts = {"-h", "--numberOfHosts"},
-                // numberOfUsableHosts = {"-u", "--numberOfUsableHosts"},
-                // firstUsableHost = {"-f", "--firstUsableHost"},
-                // lastUsableHost = {"-l", "--lastUsableHost"},
-                // hostsRange = {"-r", "--hostsRange"},
-                // addressKind = {"-k", "--addressClass"}
-                // all = {"-a", "--all"}
-            
             if(args.Length < 2) {
                 Console.WriteLine("Command usage: networkTools <ip address> <subnet mask> (flags)");
                 return;
