@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\bin\Debug\net6.0\subnetting_software.exe
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\bin\Debug\net6.0\subnetting_software.deps.json
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\bin\Debug\net6.0\subnetting_software.runtimeconfig.json
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\bin\Debug\net6.0\subnetting_software.dll
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\bin\Debug\net6.0\ref\subnetting_software.dll
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\bin\Debug\net6.0\subnetting_software.pdb
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\obj\Debug\net6.0\subnetting_software.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\obj\Debug\net6.0\subnetting_software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\obj\Debug\net6.0\subnetting_software.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\obj\Debug\net6.0\subnetting_software.AssemblyInfo.cs
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\obj\Debug\net6.0\subnetting_software.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\obj\Debug\net6.0\subnetting_software.dll
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\obj\Debug\net6.0\ref\subnetting_software.dll
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\obj\Debug\net6.0\subnetting_software.pdb
+C:\Users\alex\Documents\.school\5\sistemi\subnetting_software\obj\Debug\net6.0\subnetting_software.genruntimeconfig.cache
